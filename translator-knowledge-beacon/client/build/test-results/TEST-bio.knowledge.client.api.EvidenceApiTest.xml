@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bio.knowledge.client.api.EvidenceApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-08T21:42:50" hostname="cherry-hill" time="0.0">
+  <properties/>
+  <testcase name="getEvidenceTest" classname="bio.knowledge.client.api.EvidenceApiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

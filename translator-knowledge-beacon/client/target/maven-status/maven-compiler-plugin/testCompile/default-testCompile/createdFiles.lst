@@ -1,0 +1,4 @@
+bio/knowledge/client/api/StatementsApiTest.class
+bio/knowledge/client/api/EvidenceApiTest.class
+bio/knowledge/client/api/ConceptsApiTest.class
+bio/knowledge/client/api/ExactmatchesApiTest.class

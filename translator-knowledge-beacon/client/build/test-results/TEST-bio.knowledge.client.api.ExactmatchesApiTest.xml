@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bio.knowledge.client.api.ExactmatchesApiTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-06-08T21:42:50" hostname="cherry-hill" time="0.0">
+  <properties/>
+  <testcase name="getExactMatchesToConceptListTest" classname="bio.knowledge.client.api.ExactmatchesApiTest" time="0.0"/>
+  <testcase name="getExactMatchesToConceptTest" classname="bio.knowledge.client.api.ExactmatchesApiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
